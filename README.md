@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java and programming in general**
 
-- 📫 How to reach me **the_esheperd on Discord**
+- 📫 How to reach me **gleamc on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
