@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dreampop</h1>
 <h3 align="center">A tech from Europe</h3>
 
-- 🌱 I’m currently learning **Java and programming in general**
+- 🌱 I’m currently learning **programming in general**
 
 - 📫 How to reach me **gleamc on Discord**
 
