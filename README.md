@@ -6,7 +6,6 @@
   <ul>
     <li>C# with .NET</li>
     <li>Git</li>
-    <li>Java</li>
     <li>SQL</li>
     <li>Windows and Linux administration</li>
     <li>Networks</li>
