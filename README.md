@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Dreampop</h1>
-<h3 align="center">A tech from Europe</h3>
+<h1 align="center">Welcome 👋, I'm Dreampop</h1>
+<h3 align="center">IT Tech from Europe</h3>
 
 - 🖥️ Setting up my stack with
   <ul>
     <li>C# with .NET</li>
     <li>Git</li>
-    <li>SQL</li>
+    <li>Javascript</li>
     <li>Windows and Linux administration</li>
     <li>Networks</li>
   </ul>
@@ -16,7 +16,6 @@
 <ul>
   <li>Risc-V</li>
   <li>Linux</li>
-  <li>Nix</li>
   <li>Cybersecurity</li>
 </ul>
 <h3 align="left">Languages and Tools:</h3>
