@@ -3,7 +3,7 @@
 
 - 📓 I’m currently learning **Programming with web-technologies and other tech-related stuff**
 
-- 📫 How to reach me **makimask@proton.me**
+- 🗺️ How to reach me **makimask@proton.me**
 
 
 <h3 align="left">Languages and Tools:</h3>
