@@ -1,11 +1,9 @@
 <h1 align="center">Welcome to my Github profile</h1>
 <h3 align="center">A Spanish computer technician</h3>
 
-- 🌱 I’m currently learning **Programming with web-technologies and other tech-related stuff**
+- 📓 I’m currently learning **Programming with web-technologies and other tech-related stuff**
 
 - 📫 How to reach me **makimask@proton.me**
-
-- ⚡ Fun fact **I am very curious**
 
 
 <h3 align="left">Languages and Tools:</h3>
