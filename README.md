@@ -1,16 +1,18 @@
-<h3 align="center">I'm an extremely curious programmer</h3>
+<h2 align="center">I'm an extremely curious programmer</h2>
+<ul>
+      <li>I’m currently working on <b>Reading orthodox</b> and <b>Pandemonium bot</b></li>
+      <li>I am currently learning <b>HTML, CSS, Javascript</b></li>
+      <li>Reach me in <b>makimask@proton.me</b></li>
+</ul>
 
-- I’m currently working on **Reading orthodox** and **Pandemonium bot**
-
-- I am currently learning **HTML, CSS, Javascript**
-
-- Reach me in **makimask@proton.me**
 
 <h3 align="left">Languages and technologies</h3>
 <p align="left">
       <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,npm,bootstrap,react" />
 </p>
-! Boostrap and react are in the to-learn-list. Not yet in my brain  
+ <ul>
+       <li>Boostrap and react are in the to-learn-list. Not yet in my brain</li>
+ </ul>  
 
 <h3 align="left">Tools</h3>
 <p align="left">
