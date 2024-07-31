@@ -20,3 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreampop602&show_icons=true&locale=en&layout=compact" alt="dreampop602" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dreampop602&show_icons=true&locale=en" alt="dreampop602" /></p>
+<p>I would like to help on any programming project you consider I'm useful for. No money charges</p>
