@@ -1,7 +1,7 @@
 <h2 align="center">I'm an extremely curious programmer</h2>
 <ul>
       <li>I’m currently working on <b>Reading orthodox</b> and <b>Pandemonium bot</b></li>
-      <li>I am currently learning <b>front-end web development</b></li>
+      <li>I am currently learning <b>front-end web development</b> and <b>Discord.js</b></li>
       <li>Reach me in <b>makimask@proton.me</b></li>
 </ul>
 
