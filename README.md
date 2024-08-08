@@ -6,12 +6,12 @@
 
 <h3 align="left">Tools</h3>
 <p align="left">
-      <img src="https://skillicons.dev/icons?i=vscode,arch,windows,discord," />
+      <img src="https://skillicons.dev/icons?i=vscode,windows,discord," />
 </p>
 
 <h3 align="left">Looking forward to</h3>
 <p align="left">
-            <img src="https://skillicons.dev/icons?i=vue,htmx,php,laravel,postgresql,nodejs,bootstrap,react,powershell"/>
+            <img src="https://skillicons.dev/icons?i=vue,htmx,php,laravel,mysql,nodejs,bootstrap,react,powershell,cs,dotnet"/>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreampop602&show_icons=true&locale=en&layout=compact" alt="dreampop602" /></p>
 
