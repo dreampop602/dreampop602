@@ -11,7 +11,7 @@
 
 <h3 align="left">Looking forward to</h3>
 <p align="left">
-            <img src="https://skillicons.dev/icons?i=php,laravel,mysql,powershell"/>
+            <img src="https://skillicons.dev/icons?i=php,laravel,mysql,powershell,unity"/>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreampop602&show_icons=true&locale=en&layout=compact" alt="dreampop602" /></p>
 
