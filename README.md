@@ -1,17 +1,17 @@
 <h2 align="center">I'm an extremely curious programmer</h2>
-<h3 align="left">Languages and technologies</h3>
+<h3 align="left">Languages and frameworks</h3>
 <p align="left">
-      <img src="https://skillicons.dev/icons?i=git,github,linux,npm" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
 <h3 align="left">Tools</h3>
 <p align="left">
-      <img src="https://skillicons.dev/icons?i=vscode,windows,discord," />
+      <img src="https://skillicons.dev/icons?i=vscode,windows,discord,git,github,visualstudio" />
 </p>
 
 <h3 align="left">Looking forward to</h3>
 <p align="left">
-            <img src="https://skillicons.dev/icons?i=html,css,js,vue,htmx,php,laravel,mysql,nodejs,bootstrap,react,powershell,cs,dotnet"/>
+            <img src="https://skillicons.dev/icons?i=php,laravel,mysql,powershell"/>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreampop602&show_icons=true&locale=en&layout=compact" alt="dreampop602" /></p>
 
