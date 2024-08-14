@@ -1,4 +1,4 @@
-<h2 align="center">I'm an extremely curious programmer</h2>
+<h2 align="center">For the LORD gives wisdom; from his mouth come knowledge and understanding. </h2>
 <h3 align="left">Languages and frameworks</h3>
 <p align="left">
       <img src="https://skillicons.dev/icons?i=cs,dotnet" />
