@@ -6,7 +6,7 @@
 
 <h3 align="left">Tools</h3>
 <p align="left">
-      <img src="https://skillicons.dev/icons?i=vscode,windows,discord,git,github,visualstudio" />
+      <img src="https://skillicons.dev/icons?i=windows,discord,git,github,visualstudio,vscode" />
 </p>
 
 <h3 align="left">Looking forward to</h3>
