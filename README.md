@@ -11,5 +11,5 @@
 
 <h3 align="left">Looking forward to</h3>
 <p align="left">
-            <img src="https://skillicons.dev/icons?i=php,laravel,mysql,powershell,unity"/>
+            <img src="https://skillicons.dev/icons?i=php,laravel,mysql,powershell,unity,godot"/>
 </p>
