@@ -1,7 +1,7 @@
 <h2 align="center">For the LORD gives wisdom; from his mouth come knowledge and understanding. </h2>
 <h3 align="left">Languages and frameworks</h3>
 <p align="left">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,godot" />
 </p>
 
 <h3 align="left">Tools</h3>
@@ -11,5 +11,5 @@
 
 <h3 align="left">Looking forward to</h3>
 <p align="left">
-            <img src="https://skillicons.dev/icons?i=php,laravel,mysql,powershell,unity,godot"/>
+            <img src="https://skillicons.dev/icons?i=php,laravel,mysql,powershell,unity"/>
 </p>
