@@ -6,10 +6,10 @@
 
 <h3 align="left">Tools I use</h3>
 <p align="left">
-      <img src="https://skillicons.dev/icons?i=windows,discord,git,vscode,godot" />
+      <img src="https://skillicons.dev/icons?i=windows,discord,git,github,vscode,godot" />
 </p>
 
 <h3 align="left">Looking forward to</h3>
 <p align="left">
-            <img src="https://skillicons.dev/icons?i=mysql,cs,dotnet"/>
+            <img src="https://skillicons.dev/icons?i=mysql,sqlite,cs,dotnet"/>
 </p>
