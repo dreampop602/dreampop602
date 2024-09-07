@@ -6,12 +6,10 @@
 
 <h3 align="left">Tools I use</h3>
 <p align="left">
-      <img src="https://skillicons.dev/icons?i=windows,discord,git,vscode" />
+      <img src="https://skillicons.dev/icons?i=windows,discord,git,vscode,godot" />
 </p>
 
 <h3 align="left">Looking forward to</h3>
 <p align="left">
-            <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,mysql,cs,dotnet"/>
+            <img src="https://skillicons.dev/icons?i=mysql,cs,dotnet"/>
 </p>
-
-There is a lot more I enjoy and I want to learn. I prefer keeping that to myself
