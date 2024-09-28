@@ -9,7 +9,7 @@
       <img src="https://skillicons.dev/icons?i=windows,discord,git,github,vscode,linux" />
 </p>
 
-<h3 align="left">Looking forward to</h3>
+<h3 align="left">Looking forward to or I would like to learn</h3>
 <p align="left">
-            <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,java,cs,python,php,laravel,htmx,bootstrap,powershell"/>
+            <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,java,cs,python,php,laravel,htmx,bootstrap,powershell,godot,unreal,unity"/>
 </p>
