@@ -11,5 +11,5 @@
 
 <h3 align="left">Looking forward to</h3>
 <p align="left">
-            <img src="https://skillicons.dev/icons?i=mysql,sqlite,java,spring,python,htmx,bootstrap"/>
+            <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,java,spring,cs,dotnet,python,php,laravel,htmx,bootstrap"/>
 </p>
