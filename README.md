@@ -11,5 +11,5 @@
 
 <h3 align="left">Will / I would like to learn / Interest in</h3>
 <p align="left">
-            <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,java,cs,python,php,laravel,htmx,bootstrap,powershell,godot,unreal,unity"/>
+            <img src="https://skillicons.dev/icons?i=postgresql,java,cs,python,htmx,bootstrap,powershell,godot,unreal,unity"/>
 </p>
